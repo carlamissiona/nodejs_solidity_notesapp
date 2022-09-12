@@ -1,0 +1,15 @@
+{
+  "name": "chainblogs",
+  "version": "1.0.0",
+  "description": "solidity with kaleido",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carla Missiona",
+  "license": "ISC",
+  "devDependencies": {
+    "request-promise-native": "^1.0.9",
+    "swagger-client": "^3.18.5"
+  }
+}
